@@ -4,7 +4,7 @@ import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import java.time.LocalDateTime;
 
-@Path("hellowworld")
+@Path("helloworld")
 public class MyResource {
 
     @GET
